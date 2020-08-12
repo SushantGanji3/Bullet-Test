@@ -1,2 +1,2 @@
-# Bullet-Test
-Project 21 WHJ
+# p5.play-boilerplate
+Boiler plate for p5.play
